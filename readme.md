@@ -69,4 +69,20 @@ cd ./v2_analysis_indivilevel/Demo_CounterfactualGeneration_PCE.ipynb
     ├── __init__py
     ├── visualize_dataframe.py # class for visualize dataframe
 
+# Citation
+If you use this code or method in your research, please cite:
+
+Zhang, J., Mu, L., Zhang, D., Chen, Z., Rajbhandari-Thapa, J., Pagán, J. A., … Zhou, Z. (2025). SpaCE: a spatial counterfactual explainable deep learning model for predicting out-of-hospital cardiac arrest survival outcome. *International Journal of Geographical Information Science*, 1–32. https://doi.org/10.1080/13658816.2024.2443757
+
+## BibTeX
+```bibtex
+@article{zhang2025space,
+  title={SpaCE: a spatial counterfactual explainable deep learning model for predicting out-of-hospital cardiac arrest survival outcome},
+  author={Zhang, Jielu and Mu, Lan and Zhang, Dongmei and Chen, Zhiyuan and Rajbhandari-Thapa, Janani and Pag{\'a}n, Jos{\'e} A and Zhou, Zhenlong},
+  journal={International Journal of Geographical Information Science},
+  pages={1--32},
+  year={2025},
+  publisher={Taylor \& Francis},
+  doi={10.1080/13658816.2024.2443757}
+}
 ```
